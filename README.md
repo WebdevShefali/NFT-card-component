@@ -13,7 +13,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/WebdevShefali/NFT-card-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://webdevshefali.github.io/NFT-card-component/)
 
 ### Built with
 
